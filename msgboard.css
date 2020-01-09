@@ -1,0 +1,19 @@
+@c-333: #333;
+@c-aaa: #aaa;
+@c-eee: #eee;
+
+
+div.a{
+  text-align: center;
+}
+*,
+*:before,
+*:after{
+ box-sizing: border-box;
+}
+
+a{
+text-decoration: none;
+color: lighten
+
+}

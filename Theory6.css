@@ -1,0 +1,21 @@
+body{
+  background-color: #878682
+}
+
+.left{
+  max-width: 500px;
+  float: left;
+  border: 3px solid #77d147
+}
+
+.right{
+  max-width: 500px;
+  float: right;
+  border: 3px solid #529130
+}
+
+.center{
+  max-width: 500px;
+  float: middle;
+  border: 3px solid #396322
+}
