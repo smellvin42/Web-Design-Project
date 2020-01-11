@@ -4,8 +4,8 @@ h1{
 
 }
 
-body{
-  background-image: url(https://i.imgur.com/tuDGv7Y.jpg);
+body {
+  background-image: url("rainbowbackground.jpg");
   background-repeat:no-repeat;
   background-size: cover;
 }
