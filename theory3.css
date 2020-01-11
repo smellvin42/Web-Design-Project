@@ -17,4 +17,5 @@ body {
  margin-left: 100px;
  height: 400px;
  width: 400px;
+ border: 25px solid black;
 }
