@@ -1,11 +1,10 @@
-h1{
-  font-size: 100px;
-  text-align: center;
-
-}
-
 body {
   background-image: url("rainbowbackground.jpg");
   background-repeat:no-repeat;
   background-size: cover;
+}
+h1{
+  font-size: 100px;
+  text-align: center;
+
 }
