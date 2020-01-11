@@ -1,11 +1,11 @@
 h1{
-  font-size:"100px";
+  font-size: 100px;
   text-align: center;
 
 }
 
 body{
-  background-image: url(https://github.com/smellvin42/Web-Design-Project/blob/master/rainbowbackground.jpg);
+  background-image: url(rainbowbackground.jpg);
   background-repeat:no-repeat;
   background-size: cover;
 }
