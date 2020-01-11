@@ -1,8 +1,11 @@
+body{
+  background-image: url(https://github.com/smellvin42/Web-Design-Project/blob/master/rainbowbackground.jpg)
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
 h1{
   font-size:"100px"
   text-align: center;
-  
-  background-image: url(rainbowbackground.jpg)
-  background-repeat:no-repeat;
-  background-size: auto;
+
 }
