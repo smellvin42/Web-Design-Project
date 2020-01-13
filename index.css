@@ -1,6 +1,6 @@
 
 body{
-  background-image: url(background-no-apple.png);
+  background-image: url("background-no-apple.png");
   background-color: #ffe8ba;
   background-repeat: no-repeat;
   background-attachment: fixed;
