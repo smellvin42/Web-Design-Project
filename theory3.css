@@ -23,5 +23,27 @@ body {
 }
 
 .image:hover {
-  color: green;
+  opacity: .2;
+}
+
+.container1 {
+  position: relative;
+text-align: center;
+}
+
+.container2 {
+  position: relative;
+text-align: center;
+}
+
+.container3 {
+  position: relative;
+text-align: center;
+}
+
+.centered {
+  position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
 }
