@@ -13,30 +13,36 @@ body {
 
 
 .image{
-
+ border: 10px solid black;
+ margin-top: 100px;
+ margin-bottom: 100px;
+ margin-right: 100px;
+ margin-left: 100px;
+ height: 400px;
+ width: 400px;
 }
 
 .image:hover {
   opacity: .2;
 }
 
-.container {
+.container1 {
 text-align: center;
-border: 10px solid black;
-margin-top: 100px;
-margin-bottom: 100px;
-margin-right: 100px;
-margin-left: 100px;
-height: 400px;
-width: 400px;
+}
+
+.container2 {
+text-align: center;
+}
+
+.container3 {
+text-align: center;
 }
 
 .centered {
-  font-family:"Comic Sans MS";
   position:absolute;
 top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
 font-size: 24px;
-
+font-family:"Comic Sans MS";
 }
