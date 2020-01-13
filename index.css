@@ -6,8 +6,14 @@ body{
   background-attachment: fixed;
   background-size: cover;
 }
-h1 {
-  position: absolute;
+h1{
+  position: fixed;
   left: 100px
   top: 100px
 }
+p{
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
