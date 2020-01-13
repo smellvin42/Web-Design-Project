@@ -10,9 +10,7 @@ body {
   background-size: cover;
 }
 
-.image hover{
-  opacity: .2
-}
+
 
 .image{
  border: 10px solid black;
@@ -22,4 +20,8 @@ body {
  margin-left: 100px;
  height: 400px;
  width: 400px;
+}
+
+.image:hover {
+  opacity: .2
 }
