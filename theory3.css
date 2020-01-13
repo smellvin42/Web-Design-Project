@@ -13,13 +13,7 @@ body {
 
 
 .image{
- border: 10px solid black;
- margin-top: 100px;
- margin-bottom: 100px;
- margin-right: 100px;
- margin-left: 100px;
- height: 400px;
- width: 400px;
+
 }
 
 .image:hover {
@@ -27,11 +21,15 @@ body {
 }
 
 .container {
-    position:absolute;
-  float: left;
 text-align: center;
+border: 10px solid black;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 100px;
+margin-left: 100px;
+height: 400px;
+width: 400px;
 }
-
 
 .centered {
   font-family:"Comic Sans MS";
