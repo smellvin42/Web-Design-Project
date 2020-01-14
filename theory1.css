@@ -23,6 +23,7 @@ position: relative;
 }
 
 .Column {
+  display: inline-block;
   padding: 15px;
 }
 
