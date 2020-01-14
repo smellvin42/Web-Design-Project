@@ -13,6 +13,7 @@ body {
 
 
 .image{
+  display: inline;
  border: 10px solid black;
  margin-top: 100px;
  margin-bottom: 100px;
@@ -27,15 +28,15 @@ body {
 }
 
 .image1{
-  display: inline;
+
 }
 
 .image2{
-  display: inline;
+
 }
 
 .image3{
-  display: inline;
+
 }
 .centered {
   position:absolute;
