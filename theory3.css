@@ -27,14 +27,17 @@ body {
 }
 
 .container1 {
+  float:left;
 text-align: center;
 }
 
 .container2 {
+  float: left;
 text-align: center;
 }
 
 .container3 {
+  float: left;
 text-align: center;
 }
 
