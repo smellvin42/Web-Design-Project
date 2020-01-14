@@ -13,7 +13,6 @@ body {
 
 
 .image{
-  white-space: nowrap;
  border: 10px solid black;
  margin-top: 100px;
  margin-bottom: 100px;
@@ -25,19 +24,7 @@ body {
 
 .image:hover {
   opacity: .2;
-}
 
-.image1{
-
-}
-
-.image2{
-
-}
-
-.image3{
-
-}
 .centered {
   position:absolute;
 top: 50%;
