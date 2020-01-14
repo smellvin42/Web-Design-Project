@@ -21,3 +21,16 @@ position: relative;
   transform: translate(-50%, -50%);
   color: white;
 }
+
+.Column {
+  float: left;
+  padding: 15px;
+}
+
+.Column.side{
+  width: 20%
+}
+
+.column.middle{
+  width: 60%;
+}
