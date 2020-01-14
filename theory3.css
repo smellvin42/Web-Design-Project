@@ -26,6 +26,17 @@ body {
   opacity: .2;
 }
 
+.image1{
+  display: inline;
+}
+
+.image2{
+  display: inline;
+}
+
+.image3{
+  display: inline;
+}
 .centered {
   position:absolute;
 top: 50%;
