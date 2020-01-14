@@ -42,7 +42,7 @@ body {
  width: 400px;
 }
 
-.image:hover {
+.image1:hover, .image2:hover, .image3:hover {
   opacity: .2;
 
 .centered {
