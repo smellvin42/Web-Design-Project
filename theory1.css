@@ -3,7 +3,7 @@
   font-family:"Comic Sans MS";
   padding: 60px;
   text-align: center;
-  background: headerimage;
+    background-image: url("sheeperson.gif")
   color: white;
   font-size: 30px;
 }
