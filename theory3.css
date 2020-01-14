@@ -12,7 +12,7 @@ body {
 
 
 
-.image1{
+.image{
  border: 10px solid black;
  margin-top: 100px;
  margin-bottom: 100px;
@@ -22,27 +22,7 @@ body {
  width: 400px;
 }
 
-.image2{
- border: 10px solid black;
- margin-top: 100px;
- margin-bottom: 100px;
- margin-right: 100px;
- margin-left: 100px;
- height: 400px;
- width: 400px;
-}
-
-.image3{
- border: 10px solid black;
- margin-top: 100px;
- margin-bottom: 100px;
- margin-right: 100px;
- margin-left: 100px;
- height: 400px;
- width: 400px;
-}
-
-.image1:hover, .image2:hover, .image3:hover {
+.image:hover {
   opacity: .2;
 
 .centered {
