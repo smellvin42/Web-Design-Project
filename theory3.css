@@ -12,7 +12,27 @@ body {
 
 
 
-.image{
+.image1{
+ border: 10px solid black;
+ margin-top: 100px;
+ margin-bottom: 100px;
+ margin-right: 100px;
+ margin-left: 100px;
+ height: 400px;
+ width: 400px;
+}
+
+.image2{
+ border: 10px solid black;
+ margin-top: 100px;
+ margin-bottom: 100px;
+ margin-right: 100px;
+ margin-left: 100px;
+ height: 400px;
+ width: 400px;
+}
+
+.image3{
  border: 10px solid black;
  margin-top: 100px;
  margin-bottom: 100px;
