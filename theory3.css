@@ -13,7 +13,6 @@ body {
 
 
 .image{
-  display: inline;
   white-space: nowrap;
  border: 10px solid black;
  margin-top: 100px;
