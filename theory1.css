@@ -34,3 +34,7 @@ position: relative;
 .column.middle{
   width: 60%;
 }
+
+.row {
+  width: 100%;
+}
