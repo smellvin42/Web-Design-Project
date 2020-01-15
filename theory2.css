@@ -14,7 +14,7 @@ img {
 
 }
 
-img:hover {
+.shake:hover {
 
   transform: 5000%;
 
@@ -40,6 +40,6 @@ img:hover {
 
 }
 
-img:hover {
-
+.scale:hover {
+  transition: transform 15s;
 }
