@@ -3,6 +3,7 @@ h1 {
 }
 
 img {
+  transition: transform 15s;
   height: 422px;
   width: 612px;
   left: 50%;
@@ -10,11 +11,11 @@ img {
   position: absolute;
   margin-top: -211px;
   margin-left: -306px;
-  transition: transform 2s;
+
 }
 
 img:hover {
-
+  transform: scale(50);
   animation: shake 0.5s;
 
 
@@ -33,11 +34,4 @@ img:hover {
   80% { transform: translate(-5px, -5px) rotate(5deg); }
   90% { transform: translate(5px, 10px) rotate(0deg); }
   100% { transform: translate(5px, -10px) rotate(-5deg); }
-}
-
-
-img:hover {
-  transform: scale(2);
-
-
 }
