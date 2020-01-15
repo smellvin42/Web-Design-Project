@@ -31,7 +31,7 @@ position: relative;
 }
 
 .column {
-  display: inline-block;
+  float: left;
   padding: 15px;
 }
 
