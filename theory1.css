@@ -2,6 +2,14 @@ body, html {
   height: 100%;
 }
 
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
 
 .headerimage {
   background-image: url("sheeperson.gif");
@@ -25,7 +33,6 @@ position: relative;
 .Column {
   display: inline-block;
   padding: 15px;
-    width: 100%;
 }
 
 .Column.side{
@@ -36,6 +43,8 @@ position: relative;
   width: 60%;
 }
 
-.row {
-
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
