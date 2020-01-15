@@ -13,15 +13,12 @@ img {
   margin-left: -306px;
 
 }
-img:hover {
-    transform: scale(50);
-}
 
 img:hover {
 
   animation: shake 0.5s;
 
-
+  transform: scale(50);
   animation-iteration-count: infinite;
 }
 
