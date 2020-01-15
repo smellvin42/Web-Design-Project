@@ -16,7 +16,7 @@ img {
 
 img:hover {
 
-  animation: shake 0.5s, scale(50);
+  animation: shake 0.5s, transform: scale(50);
 
 
   animation-iteration-count: infinite;
