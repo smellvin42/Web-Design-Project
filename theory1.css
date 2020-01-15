@@ -32,7 +32,7 @@ position: relative;
 
 .column {
   float: left;
-  padding: 15px;
+  padding: 10px;
 }
 
 .column.side{
