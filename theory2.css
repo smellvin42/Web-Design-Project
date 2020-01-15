@@ -15,7 +15,7 @@ img {
 }
 
 img:hover {
-  transition: transform scale(50);
+  transform: scale(50);
 }
 
 /*img:hover {
