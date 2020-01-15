@@ -14,6 +14,10 @@ img {
 
 }
 
+.scale:hover {
+  transition: transform 15s;
+}
+
 img:hover {
 
   transform: 5000%;
@@ -39,7 +43,3 @@ img:hover {
 
 
 }
-/*
-.scale:hover {
-  transition: transform 15s;
-}*/
