@@ -55,27 +55,27 @@ img:hover {
   border-radius: 0 5px 5px 0; /* Rounded corners on the top right and bottom right side */
 }
 
-#1 a:hover {
+#sheeple a:hover {
   left: 0; /* On mouse-over, make the elements appear as they should */
 }
 
 /* The about link: 20px from the top with a green background */
-#2 {
+#crab {
   top: 20px;
   background-color: #4CAF50;
 }
 
-#3 {
+#gallery {
   top: 80px;
   background-color: #2196F3; /* Blue */
 }
 
-#4 {
+#vibeo {
   top: 140px;
   background-color: #f44336; /* Red */
 }
 
-#5 {
+#five {
   top: 200px;
   background-color: #555 /* Light Black */
 }
