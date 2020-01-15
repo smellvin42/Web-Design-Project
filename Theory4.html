@@ -1,22 +1,33 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" type="text/css" href="theory4.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style
+<link rel="stylesheet" type="text/css" href="theory4.css">
+
+</style>
 </head>
-  <body>
-    <h1>Wake Up Sheeple!!!!!</h1>
+<body onload="myFunction()" style="margin:0;">
 
+<div id="loader"></div>
 
+<div style="display:none;" id="myDiv" class="animate-bottom">
+  <h2>Tada!</h2>
+  <p>Some text in my newly loaded page..</p>
+</div>
 
+<script>
+var myVar;
 
+function myFunction() {
+  myVar = setTimeout(showPage, 3000);
+}
 
+function showPage() {
+  document.getElementById("loader").style.display = "none";
+  document.getElementById("myDiv").style.display = "block";
+}
+</script>
 
-
-
-
-
-
-
-
-  </body>
+</body>
 </html>
