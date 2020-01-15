@@ -32,17 +32,19 @@ position: relative;
 
 .column {
   float: left;
-  padding: 20px;
+  padding: 10px;
   text-align: center;
-  background-color: black;
+
   color:grey;
 }
 
 .column.side{
+  background-color: grey;
   width: 25%;
 }
 
 .column.middle{
+  background-color: black;
   width: 50%;
 }
 
