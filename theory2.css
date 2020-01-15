@@ -10,7 +10,7 @@ img {
   position: absolute;
   margin-top: -211px;
   margin-left: -306px;
-  transition: transform 60s;
+  transition: transform 2s;
 }
 
 img:hover {
@@ -37,7 +37,7 @@ img:hover {
 
 
 img:hover {
-  transform: scale(50);
+  transform: scale(2);
 
 
 }
