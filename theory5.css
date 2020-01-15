@@ -10,6 +10,9 @@ font-family: 'Pacifico', cursive;
 body {
   margin: 0;
   overflow: hidden;
+  background-image: url("tyler.png");
+  background-repeat:no-repeat;
+  background-size: cover;
 }
 
 .wrapper {
