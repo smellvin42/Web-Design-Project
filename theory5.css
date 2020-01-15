@@ -1,9 +1,9 @@
 
 button.a {
-width: 75px;
-height:50px;
+width: 150px;
+height:100px;
 position:fixed;
-
+font-family: 'Pacifico', cursive;
 }
 
 
