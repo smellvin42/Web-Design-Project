@@ -14,7 +14,7 @@ img {
 
 }
 
-.shake:hover {
+img:hover {
   transition: transform 15s;
 }
 
