@@ -1,4 +1,11 @@
 
+button.a {
+width: 75px;
+height:50px;
+position:fixed;
+
+}
+
 #mySidenav a {
   position: absolute; /* Position them relative to the browser window */
   left: -80px; /* Position them outside of the screen */
