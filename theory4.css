@@ -1,5 +1,5 @@
 
-
+/* Center the loader */
 #loader {
   position: absolute;
   left: 50%;
@@ -27,7 +27,7 @@
   100% { transform: rotate(360deg); }
 }
 
-
+/* Add animation to "page content" */
 .animate-bottom {
   position: relative;
   -webkit-animation-name: animatebottom;
