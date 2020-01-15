@@ -10,7 +10,7 @@ body {
   margin: 0;
 }
 
-/*
+
 .headerimage {
   background-image: url("sheeperson.gif");
   height: 50%;
@@ -29,13 +29,13 @@ position: relative;
   transform: translate(-50%, -50%);
   color: white;
 }
-*/
-.Column {
+
+.column {
   display: inline-block;
   padding: 15px;
 }
 
-.Column.side{
+.column.side{
   width: 20%
 }
 
