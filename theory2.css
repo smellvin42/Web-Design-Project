@@ -16,7 +16,7 @@ img {
 
 
 
-.shake{
+:not(img:hover){
   animation: shake 0.5s;
 
 
@@ -39,5 +39,4 @@ img {
 
 img:hover {
   transform: scale(50);
-  background-color: red;
 }
