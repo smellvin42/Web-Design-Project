@@ -16,7 +16,7 @@ img {
 
 img:hover {
 
-  animation: shake 0.5s;
+  animation: shake 0.5s, scale(50);
 
 
   animation-iteration-count: infinite;
@@ -35,5 +35,5 @@ img:hover {
   90% { transform: translate(5px, 10px) rotate(0deg); }
   100% { transform: translate(5px, -10px) rotate(-5deg); }
 
-  transform: scale(50);
+
 }
