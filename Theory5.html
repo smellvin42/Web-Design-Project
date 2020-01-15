@@ -12,7 +12,7 @@
 
 
 
-<button class='' onclick="myFunction()">
+<button class='a' onclick="myFunction()">
 click me heehee
 </button>
 
@@ -39,7 +39,7 @@ function makeNewPosition(){
 
 function animateDiv(){
     var newq = makeNewPosition();
-    $('.a').animate({ top: newq[0], left: newq[1] }, function(){
+    $('.a').animate({ top: newq[0], left: newq[1] }, 1500, function(){
       animateDiv();
     });
 
