@@ -16,7 +16,7 @@ img {
 
 
 
-:not(img:hover){
+img{
   animation: shake 0.5s;
 
 
