@@ -22,7 +22,8 @@ position: relative;
 }
 
 #mySidenav a {
-  position: absolute; /* Position them relative to the browser window */
+  position: relative;
+  z-index: -1;
   left: -80px; /* Position them outside of the screen */
   transition: 0.3s; /* Add transition on hover */
   padding: 15px; /* 15px padding */
