@@ -6,6 +6,34 @@ position:fixed;
 
 }
 
+
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+.wrapper {
+  position: relative;
+  min-height: 100vh;
+}
+
+[class|="confetti"] {
+  position: absolute;
+}
+
+.red {
+  background-color: #E94A3F;
+}
+
+.yellow {
+  background-color: #FAA040;
+}
+
+.blue {
+  background-color: #5FC9F5;
+}
+
+
 #mySidenav a {
   position: absolute; /* Position them relative to the browser window */
   left: -80px; /* Position them outside of the screen */
@@ -47,30 +75,4 @@ position:fixed;
 #five {
   top: 260px;
   background-color: #555 /* Light Black */
-}
-
-body {
-  margin: 0;
-  overflow: hidden;
-}
-
-.wrapper {
-  position: relative;
-  min-height: 100vh;
-}
-
-[class|="confetti"] {
-  position: absolute;
-}
-
-.red {
-  background-color: #E94A3F;
-}
-
-.yellow {
-  background-color: #FAA040;
-}
-
-.blue {
-  background-color: #5FC9F5;
 }
