@@ -14,13 +14,11 @@ img {
 
 }
 
-img:hover {
-  transition: transform 15s;
+.scale:hover {
+  transition: transform: scale(50);
 }
 
 img:hover {
-
-  transform: 5000%;
 
   animation: shake 0.5s;
 
