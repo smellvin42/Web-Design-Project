@@ -39,5 +39,5 @@ img{
 
 img:hover {
   animation-iteration-count: 0;
-  transform: scale(5);
+  transform: scale();
 }
