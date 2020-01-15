@@ -22,7 +22,7 @@ position: relative;
 }
 
 #mySidenav a {
-  position: relative;
+  position: absolute;
   z-index: -1;
   left: -80px; /* Position them outside of the screen */
   transition: 0.3s; /* Add transition on hover */
