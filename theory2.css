@@ -39,4 +39,5 @@ img{
 
 img:hover {
   transform: scale(50);
+  background-color: red;
 }
