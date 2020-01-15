@@ -14,7 +14,7 @@ img {
 
 }
 
-.shake:hover {
+img:hover {
 
   transform: 5000%;
 
