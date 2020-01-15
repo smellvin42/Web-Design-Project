@@ -13,8 +13,11 @@ img {
   margin-left: -306px;
 
 }
+img:hover {
+    transform: scale(50);
+}
 
-/*img:hover {
+img:hover {
 
   animation: shake 0.5s;
 
@@ -34,8 +37,4 @@ img {
   80% { transform: translate(-5px, -5px) rotate(5deg); }
   90% { transform: translate(5px, 10px) rotate(0deg); }
   100% { transform: translate(5px, -10px) rotate(-5deg); }
-}*/
-
-img:hover {
-    transform: scale(50);
 }
