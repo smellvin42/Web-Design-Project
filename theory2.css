@@ -18,7 +18,7 @@ img {
   transition: transform: scale(50);
 }
 
-img:hover {
+:hover {
 
   animation: shake 0.5s;
 
