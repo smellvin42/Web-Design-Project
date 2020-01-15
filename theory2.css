@@ -3,7 +3,7 @@ h1 {
 }
 
 img {
-  transition: transform 15s;
+
   height: 422px;
   width: 612px;
   left: 50%;
@@ -15,7 +15,9 @@ img {
 }
 
 img:hover {
-
+  transition: transform 15s;
+  transform: 5000%;
+  
   animation: shake 0.5s;
 
 
@@ -39,5 +41,5 @@ img:hover {
 }
 
 img:hover {
-  transform: 5000%
+
 }
