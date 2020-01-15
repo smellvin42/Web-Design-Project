@@ -27,14 +27,14 @@ position: relative;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: grey;
+  color: red;
 }
 
 .column {
   float: left;
   padding: 10px;
   text-align: center;
-  height: cover ;
+  height: ;
   color:white;
 }
 
